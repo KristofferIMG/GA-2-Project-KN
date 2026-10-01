@@ -1,0 +1,1 @@
+Edit the real Canvas at 07 Interface, or open UI/Prefabs/SaloonInterface.prefab. Layout, colours, fonts and button actions are saved in the Inspector. The SaloonInterface component updates changing values and visibility. See Documentation/PROJECT_GUIDE.md for the complete guide.
